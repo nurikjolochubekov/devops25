@@ -1,5 +1,5 @@
 :root{
-	--main-color: rgba(241, 60, 110, 1);
+	--main-color: rgb(19, 61, 164);
 }
 /* main-styles */
 .wrapper{
@@ -50,13 +50,13 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 50px;
+	width: 120px;
 	height: 50px;
-	border-radius: 50%;
+	border-radius: 50px;
 	background-color: var(--main-color);
 }
 .header__logo-link{
-	font-size: 25px;
+	font-size: 20px;
 	font-weight: 600;
 	color: rgb(255, 255, 255);
 }
@@ -129,10 +129,10 @@
   background: var(--main-color);
 }
 .hero__link:hover{
-  background: rgb(223, 88, 126);
+  background: rgba(19, 61, 164, 0.8);
 }
 .hero__link:focus-visible{
-  background: rgb(223, 88, 126);
+  background: rgba(19, 61, 164, 0.8);
 }
 
 /* about */
@@ -316,10 +316,10 @@
   background: var(--main-color);
 }
 .form__button:hover{
-  background: rgb(223, 88, 126);
+  background: rgba(19, 61, 164, 0.8);
 }
 .form__button:focus-visible{
-  background: rgb(223, 88, 126);
+  background: rgba(19, 61, 164, 0.8);
 }
 .form__items input:focus, .textarea:focus{
   box-shadow: 1px 1px 1px black;
