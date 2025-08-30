@@ -1,4 +1,4 @@
-# devops25
+# DevOps25
 Portfolio Website ©
 Designed and developed by Kokumbai, Aidin and Erzhan.
 
